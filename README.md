@@ -9,3 +9,9 @@ Throughout this process, we'll cover essential data science techniques, includin
 By the end of this video, you'll not only have a functional code to forecast stock prices but also a deeper understanding of the challenges and considerations involved in time series forecasting.
 
 Whether you're a data enthusiast, finance professional, or simply curious about the potential of mhine Barning, this presentation will equip you with actionable insighis and a hands-on approach to stock price prediction. Let's get started!
+
+*What is LSTM???
+
+LSTM, or Long Short-Term Memory, is a type of neural network architecture within the field of deep learning, specifically designed for handling sequential data and time series predictions.
+
+LSTM networks are particularly good at learning from and making predictions based on patterns in data that have time dependencies, such as stock prices, weather patterns1or language sequences.
