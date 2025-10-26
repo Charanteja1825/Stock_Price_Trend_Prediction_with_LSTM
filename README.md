@@ -1,2 +1,11 @@
-# Stock_Price_Trend_Prediction_with_LSTM
-The Stock Price Trend Prediction with LSTM project aims to predict future stock market trends by analyzing historical stock price data using deep learning techniques. It utilizes Long Short-Term Memory (LSTM) networks — a type of Recurrent Neural Network (RNN) that excels at capturing long-term dependencies in time-series data.
+WELCOME, EVERYONE!
+
+Today, we're diving into an exciting intersection of finance and data science: predicting stock prices using Python and machine learning. In this Video, I'll explore how to harness Python's power, specifically using Jupyter Notebook, to create a predictive model for stock prices over the next 30 days.
+
+My goal is to help you understand how you can use historical stock data as a foundation to make informed predictions. We'll start by pulling historical stock data from Yahoo Finance, preparing and structuring this data to suit our model's needs. From there, we'll apply an LSTM neural network-a type of deep learning model designed to capture patterns in sequential data.
+
+Throughout this process, we'll cover essential data science techniques, including data ingestion, data preparation, model building, and evaluation.
+
+By the end of this video, you'll not only have a functional code to forecast stock prices but also a deeper understanding of the challenges and considerations involved in time series forecasting.
+
+Whether you're a data enthusiast, finance professional, or simply curious about the potential of mhine Barning, this presentation will equip you with actionable insighis and a hands-on approach to stock price prediction. Let's get started!
